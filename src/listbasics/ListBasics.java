@@ -129,7 +129,7 @@ public class ListBasics {
         // OK then, what happens if we do this? Try running this main method and
         // see what happens:
 
-        String willNotWork = magicWords.get(magicWords.size());
+        // String willNotWork = magicWords.get(magicWords.size());
 
         // If you run it the code, note that the program stops here, and none
         // of the lines below will run!
@@ -158,7 +158,7 @@ public class ListBasics {
         // Java also gives us the ability to _change_ what's in a list! Here’s
         // how you add a new element to the end of the list:
 
-        magicWords.add("expelliarmus");
+        // magicWords.add("expelliarmus");
 
         // Oops! What happened?! That code compiles. Why doesn't it run?
         //
